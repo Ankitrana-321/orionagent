@@ -77,3 +77,4 @@ OPENAI_API_KEY=your_openai_api_key_here
 Security note: never commit your real API key to git. Use environment variables or a secrets manager.
 >>>>>>> 7f6ba6e (first commit)
 "# orionagent" 
+"# orionagent" 
